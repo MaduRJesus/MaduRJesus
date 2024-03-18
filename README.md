@@ -1,5 +1,5 @@
 ## 👋Olá! Meu nome é Maria Eduarda
-👀   Sou médica veterinária em transição de carreira, atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) e buscando oportunidades de estágio na área de tecnologia. Além da minha paixão pela medicina veterinária, tenho um grande interesse em games.
+👀   Sou Médica Veterinária em transição de carreira, atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) e buscando oportunidades de estágio na área de tecnologia. Além da minha paixão pela medicina veterinária, tenho um grande interesse em games.
 
 - Paixão por aprender e adaptar-se a novas tecnologias.
 - Comunicação eficaz e habilidades interpessoais desenvolvidas na prática veterinária.
